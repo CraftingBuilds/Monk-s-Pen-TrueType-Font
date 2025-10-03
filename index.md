@@ -6,8 +6,5 @@ Use of the font is intended for manuscripts and the creation and record of codex
 
 Included in this font are the styles Regular, Italic, Bold, and Bold Italic. 
 
-<p>View/Download here:<br>
-<a href=“Manuscript-Codex-Regular.ttf”>Regular</a>
-<a href=“Manuscript-Codex-Italic.ttf”>Italic</a>
-<a href=“Manuscript-Codex-Bold.ttf”>Bold</a>
-<a href=“Manuscript-Codex-BoldItalic.ttf”>Bold-Italic</a></p>
+View/Download here:
+https://github.com/CraftingBuilds/Monk-s-Pen-TrueType-Font/
